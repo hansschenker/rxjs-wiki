@@ -303,6 +303,12 @@ Key additions:
 
 ---
 
+## [2026-04-09] query | What is an RxJS Observable?
+Answer filed as: core/Observable.md (pre-existing page, used as canonical answer)
+Slides: slides/core-Observable.md
+
+---
+
 ## [2026-04-09] query | What is a BehaviorSubject?
 Answer filed as: core/BehaviorSubject.md (pre-existing page)
 Slides: slides/core-BehaviorSubject.md
