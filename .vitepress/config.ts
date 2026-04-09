@@ -13,6 +13,7 @@ export default defineConfig({
 			{ text: 'Architectures', link: '/architectures/index' },
 			{ text: 'Testing', link: '/testing/index' },
 			{ text: 'Debugging', link: '/debugging/index' },
+			{ text: 'Slides', link: '/slides/core-Observable' },
 		],
 
 		sidebar: [
@@ -102,6 +103,14 @@ export default defineConfig({
 					{ text: 'Debugging Index', link: '/debugging/index' },
 					{ text: 'tap Operator', link: '/debugging/tap' },
 					{ text: 'Common Mistakes', link: '/debugging/common-mistakes' },
+				],
+			},
+			{
+				text: 'Slides',
+				collapsed: false,
+				items: [
+					{ text: 'Observable', link: '/slides/core-Observable' },
+					{ text: 'BehaviorSubject', link: '/slides/core-BehaviorSubject' },
 				],
 			},
 		],
