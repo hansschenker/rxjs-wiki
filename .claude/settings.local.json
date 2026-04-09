@@ -10,7 +10,9 @@
       "Bash(python -)",
       "Bash(python convert_links.py)",
       "Bash(git add:*)",
-      "Bash(git commit -m ':*)"
+      "Bash(git commit -m ':*)",
+      "Bash(curl -s http://localhost:5173/slides/core-Observable.html)",
+      "Bash(curl -s http://localhost:5173/slides/core-Observable)"
     ]
   }
 }
